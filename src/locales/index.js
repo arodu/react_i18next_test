@@ -1,9 +1,9 @@
 import es from './es.js'
 import en from './en.js'
 
-const locales = {
+const resources = {
   es,
   en
 };
 
-export default locales
+export default resources
